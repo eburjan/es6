@@ -1,4 +1,5 @@
 //Closures:
+//ez egy valtozas itt
 
 //Currying:
 const multiply=(a,b)=>a*b;
